@@ -2469,4 +2469,14 @@
     <template name="\frac{1}{2}" value="½" description="½" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
     <template name="\frac{1}{4}" value="¼" description="¼" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
     <template name="\frac{3}{4}" value="¾" description="¾" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'a" value="á" description="á" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'e" value="é" description="é" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'i" value="í" description="í" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'o" value="o" description="ó" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'u" value="ú" description="ú" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'A" value="Á" description="Á" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'E" value="É" description="É" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'I" value="Í" description="Í" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'O" value="Ó" description="Ó" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
+    <template name="\'U" value="Ú" description="Ú" toReformat="false" toShortenFQNames="true"><context><option name="OTHER" value="true" /></context></template>
 </templateSet>
